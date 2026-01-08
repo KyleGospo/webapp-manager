@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2025-07-25 15:09+0200\n"
-"PO-Revision-Date: 2025-09-10 15:53+0000\n"
+"PO-Revision-Date: 2025-12-27 15:06+0000\n"
 "Last-Translator: Klavs Petersons <Unknown>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2025-12-12 13:32+0000\n"
-"X-Generator: Launchpad (build 379e22b8475e3402088a4cdb4a6e7936a4d28414)\n"
+"X-Launchpad-Export-Date: 2026-01-08 15:44+0000\n"
+"X-Generator: Launchpad (build 99c00f518760bdd50fc6e353e7736d2fff8fba4a)\n"
+"Language: lv\n"
 
 #: usr/lib/webapp-manager/common.py:111 usr/lib/webapp-manager/common.py:271
 #: usr/lib/webapp-manager/common.py:442
@@ -112,7 +113,7 @@ msgstr "Dzēst '%s'"
 #: usr/lib/webapp-manager/webapp-manager.py:292
 #, python-format
 msgid "Are you sure you want to delete '%s'?"
-msgstr "Vai esat pārliecināts, ka vēlaties dzēst '%s'?"
+msgstr "Vai esi pārliecināts, ka vēlies dzēst '%s'?"
 
 #: usr/lib/webapp-manager/webapp-manager.py:293
 msgid "This Web App will be permanently lost."
@@ -154,7 +155,7 @@ msgstr "Palaist"
 
 #: usr/share/webapp-manager/webapp-manager.ui.h:5
 msgid "Name:"
-msgstr "Nosaukums"
+msgstr "Nosaukums:"
 
 #: usr/share/webapp-manager/webapp-manager.ui.h:6
 msgid "Address:"
@@ -182,7 +183,7 @@ msgstr "LABI"
 
 #: usr/share/webapp-manager/webapp-manager.ui.h:12
 msgid "Find icons online"
-msgstr "Atrodiet ikonas internetā"
+msgstr "Atrodi ikonas internetā"
 
 #: usr/share/webapp-manager/webapp-manager.ui.h:13
 msgid "Category:"
@@ -224,7 +225,7 @@ msgstr "Apraksts:"
 
 #: usr/share/webapp-manager/webapp-manager.ui.h:24
 msgid "Manage your Web Apps"
-msgstr "Pārvaldiet savas tīmekļa lietotnes"
+msgstr "Pārvaldi savas tīmekļa lietotnes"
 
 #: usr/share/webapp-manager/shortcuts.ui.h:6
 msgid "Other Shortcuts"
